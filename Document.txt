@@ -1,0 +1,94 @@
+Assessment Tasks for "For Each Loop" Topic
+Task 1: Print Array Elements
+Problem: Write a program that uses a for-each loop to print all the elements in an array of integers.
+
+Example:
+
+Input:
+
+text
+Copy code
+Array: [10, 20, 30, 40, 50]
+Output:
+
+text
+Copy code
+10
+20
+30
+40
+50
+Explanation: The program will use a for-each loop to iterate through the elements of the array and print them one by one.
+
+Task 2: Sum of Elements in an Array
+Problem: Write a program that uses a for-each loop to calculate the sum of all elements in an array of integers.
+
+Example:
+
+Input:
+
+text
+Copy code
+Array: [1, 2, 3, 4, 5]
+Output:
+
+text
+Copy code
+Sum: 15
+Explanation: The program uses a for-each loop to iterate through each element of the array, adding them together to compute the total sum.
+
+Task 3: Print Characters of a String
+Problem: Write a program that uses a for-each loop to print all characters in a string.
+
+Example:
+
+Input:
+
+text
+Copy code
+String: "Hello"
+Output:
+
+text
+Copy code
+H
+e
+l
+l
+o
+Explanation: The program uses a for-each loop to iterate over each character in the string and prints it individually.
+
+Task 4: Find Maximum Element in an Array
+Problem: Write a program that uses a for-each loop to find the maximum element in an array of integers.
+
+Example:
+
+Input:
+
+text
+Copy code
+Array: [4, 2, 7, 1, 9, 5]
+Output:
+
+text
+Copy code
+Maximum Element: 9
+Explanation: The program uses a for-each loop to iterate through the elements of the array, keeping track of the maximum value found during the iteration.
+
+Task 5: Count Occurrences of a Specific Element in an Array
+Problem: Write a program that uses a for-each loop to count how many times a specific element appears in an array of integers.
+
+Example:
+
+Input:
+
+text
+Copy code
+Array: [2, 4, 2, 7, 2, 9, 2]
+Element to search for: 2
+Output:
+
+text
+Copy code
+Occurrences of 2: 4
+Explanation: The program uses a for-each loop to iterate through the array and count the occurrences of the specified element.
